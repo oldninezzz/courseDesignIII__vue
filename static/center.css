@@ -1,0 +1,8 @@
+.centerLocate{
+  width: 500px;
+  transform: translateX(-50%) translateY(-50%);
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
